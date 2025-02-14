@@ -7,6 +7,6 @@ import java.util.*;
         }
     }
 
-        static change(int [] nums){
-            nums [0] = 25
+        static void change(int [] nums){
+            nums [0] = 25;
         }
