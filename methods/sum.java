@@ -6,7 +6,7 @@ public class sum {
         if(n==0)
         return 0;
         else
-        return n + (n-1); 
+        return n + sum(n-1); 
     }
     public static void main(String [] args){
         Scanner ip = new Scanner(System.in);
