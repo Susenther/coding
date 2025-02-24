@@ -7,9 +7,7 @@
     <list default="true" id="fca55bcd-dcda-4688-92e2-eb084d2d3661" name="Changes" comment="commit">
       <change afterPath="$PROJECT_DIR$/Sos.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sum1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding.iml" beforeDir="false" afterPath="$PROJECT_DIR$/coding.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inverted_righttriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/inverted_righttriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/methods/changevalue.java" beforeDir="false" afterPath="$PROJECT_DIR$/methods/changevalue.java" afterDir="false" />
     </list>
